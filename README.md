@@ -8,6 +8,14 @@ The GenAI Based Network Access Auditor is a comprehensive solution designed to a
 
 AWS network infrastructures can grow vast, making it challenging to monitor the network space in a dynamic environment. This often results in gaps in network security and unintended access to critical resources, posing significant risks to organizations.
 
+## What is Network Access Analyzer?
+
+[Network Access Analyzer](https://docs.aws.amazon.com/vpc/latest/network-access-analyzer/what-is-network-access-analyzer.html) is a feature that identifies unintended network access to your resources on AWS. You can use Network Access Analyzer to specify your network access requirements and to identify potential network paths that do not meet your specified requirements. You can use Network Access Analyzer to:
+
+Understand, verify, and improve your network security posture – Network Access Analyzer helps you identify unintended network access relative to your security and compliance requirements, enabling you to take steps to improve your network security.
+
+Demonstrate compliance – Network Access Analyzer helps you demonstrate that your network on AWS meets your compliance requirements
+
 ## Solution
 
 The GenAI Based Network Access Auditor leverages the power of Generative AI (GenAI) to automate the analysis and auditing of network access permissions across multiple AWS regions. By periodically monitoring network configurations and comparing them against approved baselines, this solution provides organizations with a consolidated view of their network security posture, enabling proactive mitigation of potential risks.
